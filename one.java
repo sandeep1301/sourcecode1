@@ -1,8 +1,8 @@
 public static void main()
 {
-   sandeep
-	   reddy
-
+  M
+      sandeep
+	     reddy
 
 
 }
