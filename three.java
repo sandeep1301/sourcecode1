@@ -1,6 +1,4 @@
 public static void main()
 {
-
-
-sandeep
+   sandeep reddy
 }
